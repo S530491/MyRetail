@@ -1,0 +1,8 @@
+---
+applications:
+- name: products-devcmd
+  memory: 1G
+  path: target/products-0.0.1-SNAPSHOT.jar
+  buildpack: https://github.com/cloudfoundry/java-buildpack
+#  domain: products.com
+  timeout: 180

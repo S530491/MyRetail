@@ -1,0 +1,7 @@
+com\myretail\products\model\MongoDBProduct.class
+com\myretail\products\model\Product.class
+com\myretail\products\model\CurrentPrice.class
+com\myretail\products\repository\ProductRepository.class
+com\myretail\products\ProductsApplication.class
+com\myretail\products\controller\ProductController.class
+com\myretail\products\service\ProductService.class
