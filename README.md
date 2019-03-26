@@ -9,4 +9,7 @@ http://localhost:8080/products: It will return all the products information that
 http://localhost:8080/products/{id}: It will return product information of the particular id that is given.  
 http://localhost:8080/products?price=value: It is a put method used to update the price of the product of given id.  
 
+# Deployed Application link  
+https://myretailproducts.cfapps.io/
+
 
